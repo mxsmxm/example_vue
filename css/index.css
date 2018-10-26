@@ -1,0 +1,11 @@
+.active{
+	color:rgb(255,0,0);
+	background-color: aliceblue;
+}
+.inActive{
+	color: rgb(100,0,200);
+	background-color:beige;
+}
+.bord{
+	border: dashed;
+}
